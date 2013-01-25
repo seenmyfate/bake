@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Bake::VERSION
   gem.authors       = ["seenmyfate"]
   gem.email         = ["seenmyfate@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Bake}
+  gem.summary       = %q{Cooking up some rake}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
