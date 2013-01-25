@@ -1,4 +1,5 @@
 # Bake
+An example of using rake to quickly build a simple CLI 
 
 ## Installation
 
@@ -8,6 +9,3 @@ Checkout the repo then:
     bake -vT
     bake
 
-## Usage
-
-Don't
